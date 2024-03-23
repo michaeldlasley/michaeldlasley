@@ -1,4 +1,4 @@
-<h2>Greetings, I'm Michael.</h2><h3>Welcome to my Cybersecurity Portfolio, meticulously crafted to demonstrate and manage the comprehensive skill set I am cultivating through my endeavors in cybersecurity.</h3>Current Skill Sets: <a href="https://github.com/michaeldlasley">CyberSecurity Student</a>, <a href="https://www.linkedin.com/in/mdlasley/">IT Support Technician</a> </h1>
+<h2>Greetings, I am Michael Lasley.</h2><h3>Welcome to my Cybersecurity Portfolio, meticulously crafted to demonstrate and manage the comprehensive skill set I am cultivating through my endeavors in cybersecurity.</h3>Current Skill Sets: <a href="https://github.com/michaeldlasley">CyberSecurity Student</a>, <a href="https://www.linkedin.com/in/mdlasley/">IT Support Technician</a> </h1>
 
 <h2>👨‍💻 CyberSecurity Student Projects:</h2>
 
