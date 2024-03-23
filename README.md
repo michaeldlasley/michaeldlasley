@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/michaeldlasley">CyberSecurity Student</a>, <a href="https://www.linkedin.com/in/mdlasley/">Highly Capable IT Support Technician</a> </h1>
+<h1>Greetings, I'm Michael. Welcome to my Cybersecurity Portfolio, meticulously crafted to demonstrate and manage the comprehensive skill set I am cultivating through my endeavors in cybersecurity.<br/><a href="https://github.com/michaeldlasley">CyberSecurity Student</a>, <a href="https://www.linkedin.com/in/mdlasley/">IT Support Technician</a> </h1>
 
 <h2>👨‍💻 CyberSecurity Student Projects:</h2>
 
