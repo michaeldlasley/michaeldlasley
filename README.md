@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 CyberSecurity Student Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-
 
 <h2>📺 Popular YouTube Videos</h2>
 
