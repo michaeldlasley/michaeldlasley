@@ -34,6 +34,7 @@
         <h3>Programming Languages</h3>
               <li><strong>HTML</strong> <span class="stars">&#9733;&#9733;</span></li>
               <li><strong>Python</strong> <span class="stars">&#9733;</span></li>
+              <li><strong>SQL</strong> <span class="stars">&#9733;</span></li>
 
             
 </body>
