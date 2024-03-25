@@ -14,6 +14,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <div class="legend">
+        <strong>Legend:</strong>    &#9733; Novice &#9733;&#9733; Proficient  &#9733;&#9733;&#9733; Competent  &#9733;&#9733;&#9733;&#9733; Advanced   &#9733;&#9733;&#9733;&#9733;&#9733; Expert
+    </div>
         <h3>OS Skill Set</h3>
               <li><strong>Windows OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></li>
               <li><strong>Mac OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></li>
@@ -27,7 +30,7 @@
               <li><strong>TCPDump</strong> <span class="stars">&#9733;</span></li>
               <li><strong>OSINT Tools</strong> <span class="stars">&#9733;&#9733;&#9733;</span></li>
               <li><strong>TCP/IP</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;</span></li>
-              <li><strong>Wazuh SIEM</strong> <span class="stars">&#9733;</span></li><br>
+              <li><strong>Wazuh SIEM</strong> <span class="stars">&#9733;</span></li>
         <h3>Programming Languages</h3>
               <li><strong>HTML</strong> <span class="stars">&#9733;&#9733;</span></li>
               <li><strong>Python</strong> <span class="stars">&#9733;</span></li>
