@@ -1,6 +1,6 @@
 <h2>Greeting!  I am Michael Lasley.</h2><h3>Welcome to my Cybersecurity Portfolio, meticulously crafted to demonstrate and manage the comprehensive skill set I am cultivating through my endeavors in cybersecurity.</h3>Current Skill Sets: <a href="https://github.com/michaeldlasley">CyberSecurity Student</a>, <a href="https://www.linkedin.com/in/mdlasley/">IT Support Technician</a> </h1>
 
-<h2>👨‍💻 Current CyberSecurity STUDENT Projects:</h2>
+<h2>👨‍💻 Current CyberSecurity Learning Projects:</h2>
 
 - <b>Google CyberSecurity Professional Certficate </b>
   - [Google CyberSecurity Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-cybersecurity?)&#9733;&#9733;&#9733;&#9733;_
