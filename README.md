@@ -14,8 +14,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div class="legend">
-        <strong>Legend:</strong>    &#9733; Novice &#9733;&#9733; Proficient  &#9733;&#9733;&#9733; Competent  &#9733;&#9733;&#9733;&#9733; Advanced   &#9733;&#9733;&#9733;&#9733;&#9733; Expert
+    <div class="legend">                                           
+        <strong>Legend:</strong> Novice &#9733;| Proficient &#9733;&#9733;| Competent &#9733;&#9733;&#9733;| Advanced &#9733;&#9733;&#9733;&#9733;| Expert &#9733;&#9733;&#9733;&#9733;&#9733;
     </div>
         <h3>OS Skill Set</h3>
               <li><strong>Windows OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></li>
