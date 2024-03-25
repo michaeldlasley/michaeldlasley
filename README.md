@@ -24,7 +24,8 @@
               <li><strong>nmap</strong> <span class="stars">&#9733;</span></li>
               <li><strong>TCPDump</strong> <span class="stars">&#9733;</span></li>
               <li><strong>OSINT Tools</strong> <span class="stars">&#9733;&#9733;&#9733;</span></li>
-               <li><strong>TCP/IP</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;</span></li><br>
+              <li><strong>TCP/IP</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;</span></li>
+              <li><strong>Wazuh SIEM</strong> <span class="stars">&#9733;</span></li><br>
         <h3>Programming Languages</h3>
               <li><strong>HTML</strong> <span class="stars">&#9733;&#9733;</span></li>
               <li><strong>Python</strong> <span class="stars">&#9733;</span></li>
