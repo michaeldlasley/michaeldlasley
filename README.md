@@ -14,7 +14,7 @@
 </head>
 <body>
     <div class="legend">                                           
-        <strong>Legend:</strong> Novice &#9733;| Proficient &#9733;&#9733;| Competent &#9733;&#9733;&#9733;| Advanced &#9733;&#9733;&#9733;&#9733;| Expert &#9733;&#9733;&#9733;&#9733;&#9733;
+        <strong>Legend:</strong>   Novice &#9733;_ _ _ _  <b>||</b> Proficient &#9733;&#9733;_ _ _  <b>||</b> Competent &#9733;&#9733;&#9733;_ _  <b>||</b> Advanced &#9733;&#9733;&#9733;&#9733;_  <b>||</b> Expert &#9733;&#9733;&#9733;&#9733;&#9733;
     </div>
         <h3>Operating System Skill Set</h3>
               <li><strong>Windows OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></li>
