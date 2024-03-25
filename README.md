@@ -2,6 +2,26 @@
 
 <h2>👨‍💻 CyberSecurity Student Projects:</h2>
 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>👨‍💻 Software Level of Understanding</h2>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+        <li><strong>Windows OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></li>
+        <li><strong>Mac OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;</span></li>
+        <li><strong>Linux OS:</strong> <span class="stars">&#9733;&#9733;</span></li>
+        <!-- Add more programs as needed -->
+    </ul>
+</body>
+</html>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="michaeldlasley | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
