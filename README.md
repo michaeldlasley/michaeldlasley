@@ -21,6 +21,7 @@
               <li><strong>Ubuntu Linux</strong> <span class="stars">&#9733;&#9733;&#9733;</span></li>
               <li><strong>Kali Linux</strong> <span class="stars">&#9733;</span></li>
         <h3>Security Application Skill Set</h3>
+              <li><strong>VirtualBox/Virtual Machines</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;</span></li>
               <li><strong>Wireshark</strong> <span class="stars">&#9733;</span></li>
               <li><strong>nmap</strong> <span class="stars">&#9733;</span></li>
               <li><strong>TCPDump</strong> <span class="stars">&#9733;</span></li>
