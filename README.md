@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Student Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Project name</b>
+  - [Project Description](https://)
 
 <h2>👨‍💻 Software Level of Understanding</h2>
 
