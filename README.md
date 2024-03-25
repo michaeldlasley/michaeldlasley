@@ -17,8 +17,9 @@
         <h3>OS Skill Set</h3>
               <li><strong>Windows OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></li>
               <li><strong>Mac OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></li>
-              <li><strong>Linux OS:</strong> <span class="stars">&#9733;&#9733;&#9733;</span></li>
               <li><strong>ChromeOS:</strong> <span class="stars">&#9733;&#9733;&#9733;</span></li>
+              <li><strong>Ubuntu Linux</strong> <span class="stars">&#9733;&#9733;&#9733;</span></li>
+              <li><strong>Kali Linux</strong> <span class="stars">&#9733;</span></li>
         <h3>Security Application Skill Set</h3>
               <li><strong>Wireshark</strong> <span class="stars">&#9733;</span></li>
               <li><strong>nmap</strong> <span class="stars">&#9733;</span></li>
