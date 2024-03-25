@@ -4,6 +4,7 @@
 
 - <b>Google CyberSecurity Professional Certficate </b>
   - [Google CyberSecurity Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-cybersecurity?)&#9733;&#9733;&#9733;&#9733;_
+  - [
 <h2>👨‍💻 My Software Proficiency Level</h2>
 
 <!DOCTYPE html>
