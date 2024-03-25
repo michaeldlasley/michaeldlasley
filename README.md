@@ -3,8 +3,7 @@
 <h2>👨‍💻 CyberSecurity Student Projects:</h2>
 
 - <b>Google CyberSecurity Professional Certficate </b>
-  - [Project Description](https://)
-
+  - [Google CyberSecurity Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-cybersecurity?)&#9733;&#9733;&#9733;&#9733;_
 <h2>👨‍💻 Software Proficiency Level</h2>
 
 <!DOCTYPE html>
@@ -20,21 +19,21 @@
         <h3>Operating System Skill Set</h3>
               <li><strong>Windows OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></li>
               <li><strong>Mac OS:</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span></li>
-              <li><strong>ChromeOS:</strong> <span class="stars">&#9733;&#9733;&#9733;</span></li>
-              <li><strong>Ubuntu Linux</strong> <span class="stars">&#9733;&#9733;&#9733;</span></li>
-              <li><strong>Kali Linux</strong> <span class="stars">&#9733;</span></li>
+              <li><strong>ChromeOS:</strong> <span class="stars">&#9733;&#9733;&#9733;_ _</span></li>
+              <li><strong>Ubuntu Linux</strong> <span class="stars">&#9733;&#9733;&#9733;_ _</span></li>
+              <li><strong>Kali Linux</strong> <span class="stars">&#9733;_ _ _ _</span></li>
         <h3>Security Application Skill Set</h3>
-              <li><strong>VirtualBox/Virtual Machines</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;</span></li>
-              <li><strong>Wireshark</strong> <span class="stars">&#9733;</span></li>
-              <li><strong>nmap</strong> <span class="stars">&#9733;</span></li>
-              <li><strong>TCPDump</strong> <span class="stars">&#9733;</span></li>
-              <li><strong>OSINT Tools</strong> <span class="stars">&#9733;&#9733;&#9733;</span></li>
-              <li><strong>TCP/IP</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;</span></li>
-              <li><strong>Wazuh SIEM</strong> <span class="stars">&#9733;</span></li>
+              <li><strong>VirtualBox/Virtual Machines</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;_</span></li>
+              <li><strong>Wireshark</strong> <span class="stars">&#9733;_ _ _ _</span></li>
+              <li><strong>nmap</strong> <span class="stars">&#9733;_ _ _ _</span></li>
+              <li><strong>TCPDump</strong> <span class="stars">&#9733;_ _ _ _</span></li>
+              <li><strong>OSINT Tools</strong> <span class="stars">&#9733;&#9733;&#9733;_ _</span></li>
+              <li><strong>TCP/IP</strong> <span class="stars">&#9733;&#9733;&#9733;&#9733;_</span></li>
+              <li><strong>Wazuh SIEM</strong> <span class="stars">&#9733;_ _ _ _</span></li>
         <h3>Programming Language Skill Set</h3>
-              <li><strong>HTML</strong> <span class="stars">&#9733;&#9733;</span></li>
-              <li><strong>Python</strong> <span class="stars">&#9733;</span></li>
-              <li><strong>SQL</strong> <span class="stars">&#9733;</span></li>
+              <li><strong>HTML</strong> <span class="stars">&#9733;&#9733;_ _ _</span></li>
+              <li><strong>Python</strong> <span class="stars">&#9733;_ _ _ _</span></li>
+              <li><strong>SQL</strong> <span class="stars">&#9733;_ _ _ _</span></li>
 
             
 </body>
