@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Student Projects:</h2>
 
-- <b>Project name</b>
+- <b>Google CyberSecurity Professional Certficate </b>
   - [Project Description](https://)
 
 <h2>👨‍💻 Software Proficiency Level</h2>
