@@ -2,10 +2,11 @@
 
 <h2>👨‍💻 CyberSecurity Learning Projects:</h2>
 <h3>👨‍💻 In Progress</h3>
+- <b>TCM Security Academy </b>
+  - [Practical Ethical Hacking - The Complete Course (TCM-Sec)](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+<h3>👨‍💻 Completed</h3>
 - <b>Google CyberSecurity Professional Certficate </b>
   - [Google CyberSecurity Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-cybersecurity?)&#9733;&#9733;&#9733;&#9733;_
-<h3>👨‍💻 Completed</h3>
-
 <h2>👨‍💻 My Software Proficiency Level</h2>
 
 <!DOCTYPE html>
